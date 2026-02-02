@@ -73,3 +73,7 @@ python structured_vspaero_optimizer.py
 
 - **VSPAERO not found**: Ensure OpenVSP is installed and the path is correctly set in `optimizer_config.json` under `vsp_path` if auto-discovery fails.
 - **ImportError: No module named 'openvsp'**: Add the OpenVSP python directory to your system's `PYTHONPATH`.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
